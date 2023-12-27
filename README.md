@@ -1,2 +1,0 @@
-# pruebaBranches
-Para probar ramas
